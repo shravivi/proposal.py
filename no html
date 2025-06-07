@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Wait...</title>
+    <style>
+        body { background-color: #f0e68c; text-align: center; padding-top: 80px; font-family: sans-serif; }
+        h1 { font-size: 2.5em; color: #b22222; }
+        img { margin-top: 20px; width: 250px; }
+        a { display: inline-block; margin-top: 30px; padding: 10px 20px; background-color: #fff8dc; border-radius: 12px; text-decoration: none; }
+    </style>
+</head>
+<body>
+    <h1>Are you sure...? 🥺</h1>
+    <p>Take your time. Love is worth waiting for 💛</p>
+    <img src="https://media.giphy.com/media/muGYyrK2Gs6bO/giphy.gif" alt="Milk Mocha Bear Sad">
+    <br>
+    <a href="/">Go back</a>
+</body>
+</html>
