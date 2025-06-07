@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Will You?</title>
+    <style>
+        body { text-align: center; background-color: #fff0f5; font-family: sans-serif; padding-top: 100px; }
+        h1 { font-size: 3em; color: #e75480; }
+        button { font-size: 1.5em; margin: 20px; padding: 10px 30px; border-radius: 15px; }
+        .yes { background-color: #ff69b4; color: white; }
+        .no { background-color: #d3d3d3; }
+        img { margin-top: 30px; width: 250px; }
+    </style>
+</head>
+<body>
+    <h1>💍 Will You Marry Me? 💖</h1>
+    <form action="/response" method="POST">
+        <button class="yes" type="submit" name="answer" value="yes">Yes 😍</button>
+        <button class="no" type="submit" name="answer" value="no">No 😢</button>
+    </form>
+    <img src="https://media.giphy.com/media/JGKu1ElTo8zqZpgfUe/giphy.gif" alt="Milk Mocha Bear">
+</body>
+</html>
