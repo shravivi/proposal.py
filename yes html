@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Yay!</title>
+    <style>
+        body { background-color: #ffe4e1; text-align: center; padding-top: 80px; font-family: sans-serif; }
+        h1 { font-size: 3em; color: #ff1493; }
+        img { margin-top: 20px; width: 250px; }
+    </style>
+</head>
+<body>
+    <h1>💖 You made me the happiest person ever! 💖</h1>
+    <p>Let's make a lifetime of memories together 🥰</p>
+    <img src="https://media.giphy.com/media/6nuiJjOOQBBn2/giphy.gif" alt="Milk Mocha Bear Love">
+</body>
+</html>
